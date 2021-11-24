@@ -1,6 +1,6 @@
 # Python-Data-Analysis
 
-This is a practice repo that i made where it mainly focuses on the module
+This is a practice repo that I have been making where it mainly focuses on the module *pandas*
 
 ## **Pandas**
 
